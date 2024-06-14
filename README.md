@@ -6,7 +6,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/Gabrield7/ebook-css/blob/main/E-book%20-%20CSS%20A%20Chave%20para%20Desvendar%20o%20Multiverso%20do%20Design_compressed.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
